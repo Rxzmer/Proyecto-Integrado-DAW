@@ -1,2 +1,5 @@
-# Proyecto-Integrado-DAW
-El repositorio de mi proyecto integrado el cual se irá actualizando conforme avance en él
+# Proyecto-Integrado-DAW: GameBridge (nombre provisional)
+Este proyecto se va a desarrollar siendo plenamente consciente del poco tiempo que tengo para ello como un MVP funcional de una plataforma web que conecte desarrolladores indie con artistas principiantes de todo tipo de campos que pudieran interesar en el desarrollo de videojuegos: dobladores, artistas gráficos, músicos etc.
+El modelo tendrá implementado funcionalidades básicas de perfiles con capacidad de personalización, búsqueda filtrada por habilidades y un sistema para comunicación interna de los usuarios.
+Como stack tecnológico usaré Java/Spring Boot para el backend, por haberlo visto durante el curso (no me da la vida ahora para aprender un lenguaje nuevo) Thymeleaf+Bootstrap para el frontend y PostgreSQL en Docker, y aprovechar lo que estoy aprendiendo en CodeArts, que garantice tanto su operatividad en la entrega como su escalabilidad a futuro, añadiendo funciones como sistemas de pagos, contratos digitales y valoraciones entre otros.
+Seguiré la metodología Scrum, que asegurará un desarrollo iterativo y documentado perfecto para la entrega final, el cual se centrará inicialmente en validar el concepto base, mientras se establecen las bases para su potencial expansión, abordando así la falta de espacios accesibles para talento emergente en la industria de los videojuegos.
